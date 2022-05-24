@@ -124,8 +124,8 @@
                 <!-- Footer -->
                 <footer id="footer">
                     <p class="copyright">Copyright &copy; 2021 Kelompok 3
-                        <br>Designed by <a rel="nofollow" href="https://www.instagram.com/pramudyawibowo_">Pramudya
-                            Wibowo</a></p>
+                        <br>By <a rel="nofollow" href="https://www.instagram.com/farhan_agil2">Farhan Agil</a> <a>&</a>
+                        <a rel="nofollow" href="https://www.instagram.com/_Hendrikc">Hendri Daffa</a></p>
                 </footer>
 
             </div>

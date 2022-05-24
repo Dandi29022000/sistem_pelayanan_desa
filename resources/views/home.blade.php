@@ -11,8 +11,8 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="banner-caption">
-                                    <h4>Selamat Datang di website <em>Sistem Pelayanan Publik</em> Desa Condro</h4>
-                                    <span>DESA CONDRO, KAB. LUMAJANG</span>
+                                    <h4>Selamat Datang di website <em>Sistem Pelayanan Publik</em> Desa Nongkojajar</h4>
+                                    <span>DESA NONGKOJAJAR, KAB. PASURUAN</span>
                                     @guest
                                     <p>Silahkan gunakan tombol <strong>Login</strong> untuk melihat data keluarga anda!
                                     </p>
